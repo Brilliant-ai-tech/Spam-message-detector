@@ -11,9 +11,8 @@ env/
 !.env.example
 .streamlit/secrets.toml
 
-# Local data and generated model
+# Downloaded data
 data/spam.csv
-models/spam_detector.pkl
 
 # Local project notes
 NEXT_STEPS.txt
