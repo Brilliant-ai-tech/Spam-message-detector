@@ -60,3 +60,6 @@ After training, these are generated:
 - `reports/metrics.json`
 - `reports/confusion_matrix.png`
 - individual classification reports in `reports/`
+
+Streamlit deployed page link
+https://brilliant-ai-tech-spam-message-detector-app-tbcxk9.streamlit.app/
